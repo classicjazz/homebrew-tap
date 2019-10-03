@@ -9,11 +9,11 @@ You can then install from any _formula_ I have (check the [Formula](/Formula) fo
 Let’s assume you wanted to install the `mpv` application:
 
 ```bash
-brew install mpv
+brew install --HEAD mpv
 ```
 
 or, if a core package should exist with the same name:
 
 ```bash
-brew install classicjazz/tap/mpv
+brew install --HEAD classicjazz/tap/mpv
 ```
