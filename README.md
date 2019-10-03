@@ -6,7 +6,7 @@ Use `brew tap classicjazz/tap` to add it to your repository list.
 
 You can then install from any _formula_ I have (check the [Formula](/Formula) folder) using a simple `brew` command.
 
-Let’s assume you wanted to install the `mpv` application:
+Let’s assume you wanted to install the `mpv` application from the latest Github source code:
 
 ```bash
 brew install --HEAD mpv
